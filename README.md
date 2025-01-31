@@ -12,7 +12,7 @@ Utilizei o Excel para criar tabelas dinâmicas.
 ## Resultados
 Um resultado visual de planilhas que podem ser complexas.
 
-([https://github.com/TiagoHK25/Dio-3_Podcast/blob/main/podcast%20sound.mp3])
+([https://github.com/TiagoHK25/Dio_4_Planner/blob/main/Planilha%20Financeira%20THK.xlsx])
 
 ## Reflexão
 AS possibilidades do Excel são imensas. 
